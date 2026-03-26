@@ -68,7 +68,9 @@ It provides insights into sales trends, profit analysis, and product performance
 
 ## 📄 Dashboard PDF
 
-👉 [Download Full Dashboard](Dashboard.pdf)
+👉 ## 📄 Dashboard PDF
+
+[Download Dashboard](./Dashboard.pdf)
 
 ---
 
