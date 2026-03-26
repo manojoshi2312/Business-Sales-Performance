@@ -60,9 +60,9 @@ It provides insights into sales trends, profit analysis, and product performance
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard_preview_1.png)
+![Dashboard](dashboard%20preview%201.png)
 
-![Dashboard](dashboard_preview_2.png)
+![Dashboard](dashboard%20preview%202.png)
 
 ---
 
